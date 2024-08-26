@@ -1,0 +1,42 @@
+p {
+  font-family: arial;
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+.location {
+  display: block;
+  font-size: 16px;
+  background-color: rgb(240, 240, 240);
+  border: none;
+  margin-bottom: 10px;
+  width: 400px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.request {
+  color: white;
+  background-color: black;
+  border: none;
+  font-size: 16px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 35px;
+  margin-right: 20px;
+}
+
+.schedule {
+  background-color: rgb(240, 240, 240);
+  border: none;
+  font-size: 16px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 35px;
+}
